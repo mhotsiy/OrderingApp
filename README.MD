@@ -1,0 +1,1 @@
+﻿To run application and open swagger documentation:1. Open terminal and go to .\OrderAppTests\ folder2. Run command "dotnet run"3. Swagger documantation should be here https://localhost:5001/swagger/index.htmlTo run tests:Open one more terminal window and run "dotnet test"
