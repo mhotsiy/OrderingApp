@@ -1,0 +1,1 @@
+﻿using RestSharp;public class BaseController{    protected RestClient Client;    public BaseController()    {        Client = new RestClient("https://localhost:5001");;    }}
